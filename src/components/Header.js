@@ -58,7 +58,8 @@ export default function Header() {
       <AppBar className={classes.AppBar} elevation={0}>
         <Toolbar className={classes.AppBarWrapper}>
           <h1 className={classes.AppBarTitle}>
-            My<span className={classes.colorText}>Island</span>.
+            My<span className={classes.colorText}>Own</span>Island
+            <span className={classes.colorText}>.</span>
           </h1>
           <IconButton>
             <SortIcon className={classes.icon} />
@@ -74,7 +75,7 @@ export default function Header() {
           <h1 className={classes.title}>
             Welcome to
             <br />
-            My <span className={classes.colorText}>Island</span>.
+            My Own <span className={classes.colorText}>Island</span>.
           </h1>
           <Scroll to='place-to-visit' smooth={true}>
             <IconButton>

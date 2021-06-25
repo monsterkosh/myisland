@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# MY ISLAND
+
+Im selling islands.....
+
+Project just for fun
+
+LIVE: https://myownisland.netlify.app/
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
